@@ -1,5 +1,3 @@
-#Title host_specificity_of_trichuris_trichiura
-
 This repository contains the analysis workflow for the manuscript entitled "Host microbiome determines host specificity of the human whipworm, _Trichuris trichiura_".
 
 Abstract: "Long-term whipworm-host co-evolution has resulted in tropism for the caecum of specific hosts, an organ with the densest microbial population in the body. 
