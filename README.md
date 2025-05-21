@@ -1,4 +1,4 @@
-#host_specificity_of_trichuris_trichiura
+#Title host_specificity_of_trichuris_trichiura
 
 This repository contains the analysis workflow for the manuscript entitled "Host microbiome determines host specificity of the human whipworm, _Trichuris trichiura_".
 
